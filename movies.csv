@@ -1,0 +1,101 @@
+movieId,title,genres
+1,The Shawshank Redemption,Drama
+2,The Godfather,Crime|Drama
+3,The Dark Knight,Action|Crime|Drama
+4,Pulp Fiction,Crime|Drama
+5,Schindler's List,Biography|Drama|History
+6,The Lord of the Rings: The Return of the King,Action|Adventure|Drama
+7,Fight Club,Drama
+8,Forrest Gump,Drama|Romance
+9,Inception,Action|Adventure|Sci-Fi
+10,The Matrix,Action|Sci-Fi
+11,Goodfellas,Biography|Crime|Drama
+12,The Silence of the Lambs,Crime|Drama|Thriller
+13,Se7en,Crime|Drama|Mystery
+14,The Usual Suspects,Crime|Drama|Mystery
+15,The Lion King,Animation|Adventure|Drama
+16,Interstellar,Adventure|Drama|Sci-Fi
+17,Spirited Away,Animation|Adventure|Family
+18,Parasite,Comedy|Drama|Thriller
+19,The Green Mile,Crime|Drama|Fantasy
+20,The Pianist,Biography|Drama|Music
+21,Gladiator,Action|Adventure|Drama
+22,American History X,Crime|Drama
+23,The Departed,Crime|Drama|Thriller
+24,Whiplash,Drama|Music
+25,The Prestige,Drama|Mystery|Sci-Fi
+26,The Intouchables,Biography|Comedy|Drama
+27,The Shining,Drama|Horror
+28,Alien,Horror|Sci-Fi
+29,The Lion King,Animation|Adventure|Drama
+30,The Truman Show,Comedy|Drama|Sci-Fi
+31,The Great Gatsby,Drama|Romance
+32,Memento,Mystery|Thriller
+33,The Sixth Sense,Drama|Mystery|Thriller
+34,The Grand Budapest Hotel,Adventure|Comedy|Drama
+35,Coco,Animation|Adventure|Comedy
+36,The Incredibles,Animation|Action|Adventure
+37,Finding Nemo,Animation|Adventure|Comedy
+38,Inside Out,Animation|Adventure|Comedy
+39,WALL·E,Animation|Adventure|Family
+40,The Social Network,Biography|Drama
+41,Black Swan,Drama|Thriller
+42,Slumdog Millionaire,Drama|Romance
+43,The Wolf of Wall Street,Biography|Comedy|Crime
+44,A Beautiful Mind,Biography|Drama
+45,The Theory of Everything,Biography|Drama|Romance
+46,Life of Pi,Adventure|Drama|Fantasy
+47,Avatar,Action|Adventure|Fantasy
+48,Avengers: Endgame,Action|Adventure|Drama
+49,Guardians of the Galaxy,Action|Adventure|Comedy
+50,Doctor Strange,Action|Adventure|Fantasy
+51,Deadpool,Action|Adventure|Comedy
+52,Spider-Man: Into the Spider-Verse,Animation|Action|Adventure
+53,Up,Animation|Adventure|Comedy
+54,Toy Story,Animation|Adventure|Comedy
+55,Monsters,Animation|Adventure|Comedy
+56,Shrek,Animation|Adventure|Comedy
+57,How to Train Your Dragon,Animation|Action|Adventure
+58,Kung Fu Panda,Animation|Action|Adventure
+59,Despicable Me,Animation|Adventure|Comedy
+60,Zootopia,Animation|Adventure|Comedy
+61,Big Hero 6,Animation|Action|Adventure
+62,Moana,Animation|Adventure|Comedy
+63,Frozen,Animation|Adventure|Comedy
+64,Ratatouille,Animation|Adventure|Comedy
+65,Beauty and the Beast,Animation|Family|Fantasy
+66,Tangled,Animation|Adventure|Comedy
+67,The Little Mermaid,Animation|Family|Fantasy
+68,Aladdin,Animation|Adventure|Comedy
+69,Cinderella,Animation|Family|Fantasy
+70,Snow White and the Seven Dwarfs,Animation|Family|Fantasy
+71,Sleeping Beauty,Animation|Family|Fantasy
+72,Pinocchio,Animation|Family|Fantasy
+73,Dumbo,Animation|Family|Fantasy
+74,Bambi,Animation|Drama|Family
+75,Peter Pan,Animation|Adventure|Family
+76,Lady and the Tramp,Animation|Adventure|Comedy
+77,The Jungle Book,Animation|Adventure|Comedy
+78,Robin Hood,Animation|Adventure|Comedy
+79,The Lion King,Animation|Adventure|Drama
+80,Pocahontas,Animation|Adventure|Drama
+81,Mulan,Animation|Action|Adventure
+82,Tarzan,Animation|Adventure|Drama
+83,The Emperor's New Groove,Animation|Adventure|Comedy
+84,Atlantis: The Lost Empire,Animation|Adventure|Comedy
+85,Lilo & Stitch,Animation|Adventure|Comedy
+86,Treasure Planet,Animation|Adventure|Comedy
+87,Brother Bear,Animation|Adventure|Drama
+88,Home on the Range,Animation|Adventure|Comedy
+89,Chicken Little,Animation|Adventure|Comedy
+90,Meet the Robinsons,Animation|Adventure|Comedy
+91,Bolt,Animation|Adventure|Comedy
+92,The Princess and the Frog,Animation|Adventure|Comedy
+93,Tangled,Animation|Adventure|Comedy
+94,Winnie the Pooh,Animation|Adventure|Family
+95,Wreck-It Ralph,Animation|Adventure|Comedy
+96,Frozen,Animation|Adventure|Comedy
+97,Big Hero 6,Animation|Action|Adventure
+98,Zootopia,Animation|Adventure|Comedy
+99,Moana,Animation|Adventure|Comedy
+100,Coco,Animation|Adventure|Comedy
