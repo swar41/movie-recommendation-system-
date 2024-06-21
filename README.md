@@ -1,4 +1,4 @@
-﻿# movie-recommendation-system-
+
 # Movie Recommendation System
 
 This is a Movie Recommendation System built using Flask. The system utilizes two CSV files (`movies.csv` and `ratings.csv`) to provide movie recommendations based on user preferences.
