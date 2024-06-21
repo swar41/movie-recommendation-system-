@@ -65,7 +65,9 @@ The application uses two datasets:
 Ensure both files are placed in the root directory of the project before running the application.
 
 ## Result
-![image](https://github.com/swar41/movie-recommendation-system-/assets/141357728/17a4e7d3-9ed2-4ee6-9957-f91134d0e481)
+
+![Screenshot 2024-06-21 231253](https://github.com/swar41/movie-recommendation-system-/assets/141357728/749d023d-2424-4f01-847c-81c36384db40)
+
 ![image](https://github.com/swar41/movie-recommendation-system-/assets/141357728/c5a4d1d2-f9a1-42e9-8e1a-fa29d82d20eb)
 
 
