@@ -9,6 +9,7 @@ This is a Movie Recommendation System built using Flask. The system utilizes two
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
+- [Result](#Result)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 
@@ -23,7 +24,7 @@ This is a Movie Recommendation System built using Flask. The system utilizes two
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/movie-recommendation-system.git
+    git clone https://github.com/swar41/movie-recommendation-system.git
     cd movie-recommendation-system
     ```
 
@@ -62,6 +63,11 @@ The application uses two datasets:
 - `ratings.csv`: Contains user ratings for different movies, including userId, movieId, rating, and timestamp.
 
 Ensure both files are placed in the root directory of the project before running the application.
+
+## Result
+![image](https://github.com/swar41/movie-recommendation-system-/assets/141357728/17a4e7d3-9ed2-4ee6-9957-f91134d0e481)
+![image](https://github.com/swar41/movie-recommendation-system-/assets/141357728/c5a4d1d2-f9a1-42e9-8e1a-fa29d82d20eb)
+
 
 ## Technologies Used
 
